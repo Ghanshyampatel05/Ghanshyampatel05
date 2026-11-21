@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ghanshyam Patel
 
-<!--
-**Ghanshyampatel05/Ghanshyampatel05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI/ML Engineer based in Gujarat, India, passionate about building real-time computer vision and applied AI projects.
 
-Here are some ideas to get you started:
+## Core Skills
+- **Programming:** Python
+- **Computer Vision & AI:** OpenCV, Machine Learning basics
+- **Hardware & Embedded:** Raspberry Pi
+- **Other:** Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+- **[AI_EYE](https://github.com/Ghanshyampatel05/AI_EYE)** - Real-time computer vision and applied AI project.
+
+## Opportunities
+- Actively looking for **AI/ML internships in Ahmedabad**.
